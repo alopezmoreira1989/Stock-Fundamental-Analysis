@@ -6,7 +6,7 @@ This repository contains my Google Sheets models for fundamental equity analysis
 - Balance Sheet Items (Debt, Cash, Assets, Liabilities)
 - Income Statements Items
 - Cash Flow Statements Items
-- Enterprise Value (EV)
+- Business Valuation (DCF)
 - Quarterly & Annual Trends
 - Custom Ratios
 
